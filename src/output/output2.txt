@@ -1,0 +1,28 @@
+Block chain with 100 blocks
+Block ID                                Linked List Search Time(ns)        Splay Tree Search Time (ns)
+254635751488200                         14100 ns                           7000 ns
+254635751488600                         9400 ns                            6000 ns
+254635751488200                         4400 ns                            1600 ns
+254635751488200                         3900 ns                            600 ns
+254635751488600                         3100 ns                            1700 ns
+254635751488200                         3500 ns                            1500 ns
+
+
+Block chain with 1000 blocks
+Block ID                                Linked List Search Time(ns)        Splay Tree Search Time (ns)
+254635751488200                         109000 ns                          5500 ns
+254635751488600                         117700 ns                          51700 ns
+254635751488200                         115500 ns                          1600 ns
+254635751488200                         67900 ns                           800 ns
+254635751488600                         64600 ns                           1500 ns
+254635751488200                         61800 ns                           1400 ns
+
+
+Block chain with 10000 blocks
+Block ID                                Linked List Search Time(ns)        Splay Tree Search Time (ns)
+254635751488200                         429200 ns                          36800 ns
+254635751488600                         381400 ns                          352100 ns
+254635751488200                         495100 ns                          10200 ns
+254635751488200                         484600 ns                          600 ns
+254635751488600                         289500 ns                          5200 ns
+254635751488200                         445000 ns                          900 ns

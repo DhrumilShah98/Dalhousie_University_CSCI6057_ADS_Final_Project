@@ -1,0 +1,39 @@
+Block chain with 100 blocks
+Block ID                                Linked List Search Time(ns)        Splay Tree Search Time (ns)
+254796346846200                         10900 ns                           7400 ns
+254796346846600                         26200 ns                           5500 ns
+254796346846200                         4500 ns                            1600 ns
+254796346846200                         3600 ns                            600 ns
+254796346846600                         3300 ns                            1600 ns
+254796346846200                         7700 ns                            2000 ns
+
+
+Block chain with 1000 blocks
+Block ID                                Linked List Search Time(ns)        Splay Tree Search Time (ns)
+254796346846200                         95000 ns                           5000 ns
+254796346846600                         95200 ns                           19100 ns
+254796346846200                         77100 ns                           1500 ns
+254796346846200                         70100 ns                           800 ns
+254796346846600                         55000 ns                           1300 ns
+254796346846200                         61500 ns                           1300 ns
+
+
+Block chain with 10000 blocks
+Block ID                                Linked List Search Time(ns)        Splay Tree Search Time (ns)
+254796346846200                         475900 ns                          16300 ns
+254796346846600                         458900 ns                          281100 ns
+254796346846200                         788800 ns                          14100 ns
+254796346846200                         632200 ns                          600 ns
+254796346846600                         310600 ns                          4900 ns
+254796346846200                         435300 ns                          800 ns
+
+
+Block chain with 100000 blocks
+Block ID                                Linked List Search Time(ns)        Splay Tree Search Time (ns)
+254796346846200                         2797200 ns                         165500 ns
+254796346846600                         1990100 ns                         1712500 ns
+254796346846200                         3141500 ns                         12000 ns
+254796346846200                         2793400 ns                         7100 ns
+254796346846600                         1703600 ns                         8100 ns
+254796346846200                         2485300 ns                         1400 ns
+
